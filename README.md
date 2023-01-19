@@ -5,11 +5,10 @@
 
 ### <strong>🌷목차</strong>
 
-> &nbsp; <br>
 > 1. [🎯스터디 규칙](#🎯스터디-규칙)
-> 2. [✨Commit 규칙](#✨Commit-규칙)
-> 3. [✨PR 규칙](#✨pr-규칙) <br>
-> &nbsp;
+> 2. [✨파일 이름 규칙](#✨파일-이름-규칙)
+> 3. [✨Commit 규칙](#✨Commit-규칙)
+> 4. [✨PR 규칙](#✨pr-규칙) <br>
 
 <br>
 
@@ -24,6 +23,12 @@
 
 <br>
 
+## ✨파일 이름 규칙
+- 스터디를 진행한 폴더 내 해당 주차에 `commit`을 한다.
+- 예를 들어, 만약 `Spring Boot` `1주차` 스터디를 진행했다면 `Spring Boot\week 1`에 `commit`한다.
+
+<br>
+
 ## ✨Commit 규칙
 - commit 메세지 : `[폴더 이름] 제목`
     ```
@@ -35,5 +40,5 @@
 ## ✨PR 규칙
 - PR 제목 : `이름 / 폴더 이름 / 주차`
     ```
-    박시은 / 1월 2주차 / Spring Boot
+    박시은 / Spring Boot / week 1
     ```
